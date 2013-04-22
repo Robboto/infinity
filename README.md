@@ -1,4 +1,4 @@
-Drupal-Infinity
-===============
+Infinity Font
+=============
 
-Drupal Infinity Font
+Infinity Font for Drupal
